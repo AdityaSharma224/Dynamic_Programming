@@ -1,0 +1,1 @@
+{"name":"Local: maxSumNonAAdjacent","url":"c:\\code\\Dynamic Programming\\Dynamic_Programming\\maxSumNonAAdjacent.cpp","tests":[{"id":1670647662383,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\Dynamic Programming\\Dynamic_Programming\\maxSumNonAAdjacent.cpp","group":"local","local":true}
